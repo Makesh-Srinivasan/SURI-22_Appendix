@@ -20,7 +20,7 @@ No. | Figure description     | References
 --- | ---------------------- | -------------
 1   | Water cycle (Figure 1) | <a href="https://www.vectorstock.com/royalty-free-vector/water-cycle-diagram-vector-10768263">Image link</a>
 2   | Table spreadsheet      | <a href="https://www.flaticon.com/free-icon/tables-couple_31248">Image link</a>
-3   | Radio dish             | <a href="https://www.pngall.com/weather-satellite-png/download/15604">Image link</a>
+3   | Radio dish             | <a href="https://www.dreamstime.com/basic-rgb-image194854633">Image link</a>
 4   | Satellite clipart      | <a href="https://www.pngall.com/weather-satellite-png/download/15604">Image link</a>
 5   | Magnifying glass       | <a href="https://cliparting.com/free-magnifying-glass-clipart-15285/">Image link</a>
 
