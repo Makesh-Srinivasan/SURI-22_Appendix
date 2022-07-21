@@ -1,11 +1,11 @@
-## References:
+## References
 [1] Figure 1: Water cycle: VectorStock (<a href="https://www.vectorstock.com/royalty-free-vector/water-cycle-diagram-vector-10768263">Image link</a>) <br>
 [2]* Wei, Shiqi, et al. “Estimating Irrigation Water Consumption Using Machine Learning and Remote Sensing Data in Kansas High Plains.” Remote Sensing, vol. 14, no. 13, 2022, p. 3004. Crossref, https://doi.org/10.3390/rs14133004.<br>
 [3]* Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A. N.; Kaiser, Ł. & Polosukhin, I. (2017), Attention is all you need, in 'Advances in Neural Information Processing Systems' , pp. 5998--6008.<br>
+<br>
 <i>* Not directly referenced in the poster, but used over the course of the development of the projet</i>
 
 <hr>
-<br>
 
 #### Figures inside the "(2) Study Area" section:
 The following figures are adapted/augmented from the original sources referenced below in the table <br>
@@ -17,7 +17,6 @@ No. | Figure description | References
 3   | Irrigation filed   | <a href="https://www.pbs.org/wgbh/nova/article/space-weighing-groundwater-lost-irrigation/">Image link</a>
 
 <hr>
-<br>
 
 #### Clipart images:
 No. | Figure description | References
