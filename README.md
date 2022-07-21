@@ -4,7 +4,7 @@
 
 <hr>
 
-#### Figures inside the "(2) Study Area" section:
+#### Figures inside the "Study Area" section:
 The following figures are adapted/augmented from the original sources referenced below in the table <br>
 
 No. | Figure description | References
