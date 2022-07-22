@@ -9,16 +9,16 @@ The following figures are adapted/augmented from the original sources referenced
 
 No. | Figure description | References
 --- | ------------------ | -------------
-1   | Kansas map         | <a href="https://www.kgs.ku.edu/HighPlains/HPA_Atlas/Aquifer%20Basics/index.html#High_Plains_Aquifer_%2528HPA%2529_Extent_in_the_US.jpg">Image link</a>
-2   | GMD regions        | Majumdar, S., et al. “Groundwater Withdrawal Prediction Using Integrated Multitemporal Remote Sensing Data Sets and Machine Learning.” Water Resources Research, vol. 56, no. 11, 2020. Crossref, https://doi.org/10.1029/2020wr028059.
-3   | Irrigation filed   | <a href="https://www.pbs.org/wgbh/nova/article/space-weighing-groundwater-lost-irrigation/">Image link</a>
+1   | Kansas map         | [3] <a href="https://www.kgs.ku.edu/HighPlains/HPA_Atlas/Aquifer%20Basics/index.html#High_Plains_Aquifer_%2528HPA%2529_Extent_in_the_US.jpg">Image link</a>
+2   | GMD regions        | [4] Majumdar, S., et al. “Groundwater Withdrawal Prediction Using Integrated Multitemporal Remote Sensing Data Sets and Machine Learning.” Water Resources Research, vol. 56, no. 11, 2020. Crossref, https://doi.org/10.1029/2020wr028059.
+3   | Irrigation filed   | [5] <a href="https://www.pbs.org/wgbh/nova/article/space-weighing-groundwater-lost-irrigation/">Image link</a>
 
 <hr>
 
 #### Clipart images:
 No. | Figure description     | References
 --- | ---------------------- | -------------
-1   | Water cycle (Figure 1) | <a href="https://www.vectorstock.com/royalty-free-vector/water-cycle-diagram-vector-10768263">Image link</a>
+1   | Water cycle (Figure 1) | [6] <a href="https://www.vectorstock.com/royalty-free-vector/water-cycle-diagram-vector-10768263">Image link</a>
 2   | Table spreadsheet      | <a href="https://www.flaticon.com/free-icon/tables-couple_31248">Image link</a>
 3   | Radio dish             | <a href="https://www.dreamstime.com/basic-rgb-image194854633">Image link</a>
 4   | Satellite clipart      | <a href="https://www.pngall.com/weather-satellite-png/download/15604">Image link</a>
@@ -26,5 +26,5 @@ No. | Figure description     | References
 
 <hr>
 
-
+Special thanks to PhD student Shiqi and PhD student Longyang for their continual support in this project
 
