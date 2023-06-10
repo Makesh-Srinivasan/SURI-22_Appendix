@@ -1,4 +1,4 @@
-![alt text](https://github.com/Makesh_Srinivasan/SURI-22_Appendix/blob/main/SURI_POSTER.png?raw=True)
+![alt text](https://github.com/Makesh-Srinivasan/SURI-22_Appendix/blob/main/SURI_POSTER.png?raw=true)
 <br>
 
 ## References
