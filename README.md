@@ -1,3 +1,7 @@
+## Poster
+![alt text](https://github.com/Makesh_Srinivasan/SURI-22_Appendix/blob/master/SURI_POSTER.png?raw=True)
+<br>
+
 ## References
 [1] Wei, Shiqi, et al. “Estimating Irrigation Water Consumption Using Machine Learning and Remote Sensing Data in Kansas High Plains.” Remote Sensing, vol. 14, no. 13, 2022, p. 3004. Crossref, https://doi.org/10.3390/rs14133004.<br>
 [2] Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A. N.; Kaiser, Ł. & Polosukhin, I. (2017), Attention is all you need, in 'Advances in Neural Information Processing Systems' , pp. 5998--6008.<br>
