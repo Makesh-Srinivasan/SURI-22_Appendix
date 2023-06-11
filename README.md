@@ -1,3 +1,5 @@
+Welcome! Thank you for opening this repository.<br>
+
 ![alt text](https://github.com/Makesh-Srinivasan/SURI-22_Appendix/blob/main/SURI_POSTER.png?raw=true)
 <br>
 
@@ -29,5 +31,5 @@ No. | Figure description     | References
 
 <hr>
 
-Special thanks to PhD student Shiqi and PhD student Longyang for their continual support in this project
+Special thanks to PhD student Shiqi and PhD student Longyang for their continual support in this project. Kindly note that the code cannot be shared as the next iteration of this research paper is under review. To collaborate, reach out to me via [LinkedIn](https://www.linkedin.com/in/makesh-srinivasan/) or [Email](makesh.srinivasan2019@vitstudent.ac.in).
 
