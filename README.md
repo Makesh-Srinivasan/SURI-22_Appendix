@@ -2,6 +2,9 @@ Welcome! Thank you for opening this repository.<br>
 
 ![alt text](https://github.com/Makesh-Srinivasan/SURI-22_Appendix/blob/main/SURI_POSTER.png?raw=true)
 <br>
+Water cycle is the perpetual movement of water in its various states of matter within the Earth and atmosphere. To model this phenomenon, there are multiple factors such as evapotranspiration, surface runoff, and infiltration which are difficult to quantify. We believe that by accurately estimating the irrigation amount and timing, we can better estimate and quantify other variables in the water cycle equation.
+<br>
+Feel free to explore the comprehensive project poster above to understand the problem statement and my methodology to solve it using Transforms and LSTM.
 
 ## References
 [1] Wei, Shiqi, et al. “Estimating Irrigation Water Consumption Using Machine Learning and Remote Sensing Data in Kansas High Plains.” Remote Sensing, vol. 14, no. 13, 2022, p. 3004. Crossref, https://doi.org/10.3390/rs14133004.<br>
